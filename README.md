@@ -17,3 +17,4 @@ Download this project
 3. Add set on Release | Any CPU
 8. Build the project
 9. Open the Loader
+MUST RUN.BAT FOR ANYTHING TO WORK
